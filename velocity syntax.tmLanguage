@@ -52,6 +52,15 @@
 			<string>comment.line.double-pound.vm</string>
 		</dict>
 		<dict>
+			<key>comment</key>
+			<string>Single line comment</string>
+			<key>match</key>
+			<string>(#\*\*#)
+?</string>
+			<key>name</key>
+			<string>comment.line.double-pound.vm</string>
+		</dict>
+		<dict>
 			<key>begin</key>
 			<string>/\*</string>
 			<key>captures</key>
