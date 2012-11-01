@@ -1,8 +1,6 @@
 <snippet>
 	<content><![CDATA[
 #if(\$!{request.getParameter('${1:nome do parâmetro}')})
-    ${2}
-#else
     ${0}
 #end
 ]]></content>
