@@ -13,3 +13,4 @@ Paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``set`` - set ``#set( $var = _value_ )``
 *	``$`` - use variable ``$!{var}``
 *	``!`` - html comment ``<!-- ... -->``
+*	``vm`` - velocity head ``#!vm;utf-8``
