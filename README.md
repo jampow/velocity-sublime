@@ -11,7 +11,7 @@ Paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``ifparam`` - if some url param ``#if($!{request.getParameter( 'someparameter' )}) ... #end``
 *	``else`` - only an else ``#else``
 *	``set`` - set ``#set( $var = _value_ )``
-*	``ready`` - gets the content of file ``$_reader.read("path/to/file.ext")``
+*	``read`` - gets the content of file ``$_reader.read("path/to/file.ext")``
 *	``$`` - use variable ``$!{var}``
 *	``!`` - html comment ``<!-- ... -->``
 *	``vm`` - velocity head ``#!vm;utf-8``
