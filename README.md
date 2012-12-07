@@ -17,3 +17,4 @@ Paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``vm`` - velocity head ``#!vm;utf-8``
 *	``+`` - addition ``$math.add($number, $number)``
 *	``-`` - subtraction ``$math.sub($number, $number)``
+*	``*`` - multiplication ``$math.mul($number, $number)``
