@@ -15,3 +15,4 @@ Paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``$`` - use variable ``$!{var}``
 *	``!`` - html comment ``<!-- ... -->``
 *	``vm`` - velocity head ``#!vm;utf-8``
+*	``+`` - addition ``$math.add($number, $number)``
