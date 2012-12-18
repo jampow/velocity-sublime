@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+#if(\$!{request.getParameter('debug')})
+<!--DEBUG:
+	=====================================
+	ARQUIVO:    $TM_FILENAME
+	CAMINHO:    $TM_FILEPATH
+	LINHA:      $TM_LINE_NUMBER
+	=====================================
+	${0:${1:obj}: \${${1}\}}
+-->
+#end
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>debug</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.velocity</scope>
+</snippet>
