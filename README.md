@@ -20,3 +20,4 @@ Paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``-`` - subtraction ``$math.sub($number, $number)``
 *	``*`` - multiplication ``$math.mul($number, $number)``
 *	``debug`` - html output debug with parameter
+*	``par`` - parse ``#parse("url")``
