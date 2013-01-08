@@ -21,3 +21,4 @@ Paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``*`` - multiplication ``$math.mul($number, $number)``
 *	``debug`` - html output debug with parameter
 *	``par`` - parse ``#parse("url")``
+*	``exist`` - return a boolean if file exists ``$include.exists("filepath")``
