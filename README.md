@@ -22,6 +22,7 @@ Paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``debug`` - html output debug with parameter
 *	``par`` - parse ``#parse("url")``
 *	``exist`` - return a boolean if file exists ``$include.exists("filepath")``
-*	``isweb`` - returna a boolean if plataform is web ``$_userAgent.isWeb()``
-*	``issmart`` - returna a boolean if plataform is smart ``$_userAgent.isSmart()``
-*	``isfeature`` - returna a boolean if plataform is feature ``$_userAgent.isFeature()``
+*	``isweb`` - return a boolean if plataform is web ``$_userAgent.isWeb()``
+*	``issmart`` - return a boolean if plataform is smart ``$_userAgent.isSmart()``
+*	``isfeature`` - return a boolean if plataform is feature ``$_userAgent.isFeature()``
+*	``jsontos`` - velocity object to string ``$_json.toString(obj)``
