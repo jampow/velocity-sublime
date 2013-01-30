@@ -26,3 +26,4 @@ Paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``issmart`` - return a boolean if plataform is smart ``$_userAgent.isSmart()``
 *	``isfeature`` - return a boolean if plataform is feature ``$_userAgent.isFeature()``
 *	``jsontos`` - velocity object to string ``$_json.toString(obj)``
+*	``request`` - return of the url requested ``$_json.request(url)``
