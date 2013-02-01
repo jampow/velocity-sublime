@@ -29,3 +29,4 @@ Paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``request`` - return of the url requested ``$_json.request(url)``
 *	``ept`` - is empty? ``.isEmpty()``
 *	``dtformat`` - date format ``$date.format("pattern", $date.getSystemTime())``
+*	``sysdate`` - system date ``$date.getSystemTime()``
