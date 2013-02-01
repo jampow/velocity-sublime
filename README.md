@@ -28,3 +28,4 @@ Paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``jsontos`` - velocity object to string ``$_json.toString(obj)``
 *	``request`` - return of the url requested ``$_json.request(url)``
 *	``ept`` - is empty? ``.isEmpty()``
+*	``dtformat`` - date format ``$date.format("pattern", $date.getSystemTime())``
