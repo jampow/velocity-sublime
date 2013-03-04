@@ -31,3 +31,4 @@ Paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``dtformat`` - date format ``$date.format("pattern", $date.getSystemTime())``
 *	``sysdate`` - system date ``$date.getSystemTime()``
 *	``count`` - Velocity counter, foreach index ``$velocityCount``
+*	``.upper`` - Velocity toUpperCase ``.toUpperCase()``
