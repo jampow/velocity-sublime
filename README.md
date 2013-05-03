@@ -1,6 +1,7 @@
 ## Installation
 
-Paste the repo folder into the `<SublimeText2Folder>/Packages`
+Via Package Control, search for "velocity"
+...Or paste the repo folder into the `<SublimeText2Folder>/Packages`
 
 ## Snippets
 
