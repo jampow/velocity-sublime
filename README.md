@@ -1,7 +1,8 @@
 ## Installation
 
 Via Package Control, search for "velocity"
-...Or paste the repo folder into the `<SublimeText2Folder>/Packages`
+
+Or paste the repo folder into the `<SublimeText2Folder>/Packages`
 
 ## Snippets
 
@@ -33,3 +34,4 @@ Via Package Control, search for "velocity"
 *	``sysdate`` - system date ``$date.getSystemTime()``
 *	``count`` - Velocity counter, foreach index ``$velocityCount``
 *	``.upper`` - Velocity toUpperCase ``.toUpperCase()``
+*	``st`` - STOP!!! ``#stop``
