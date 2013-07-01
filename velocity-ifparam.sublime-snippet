@@ -1,11 +1,9 @@
 <snippet>
 	<content><![CDATA[
-#if(\$!{request.getParameter('${1:nome do parâmetro}')})
+#if( \$!{request.getParameter( "${1:nome do parâmetro}" )} )
     ${0}
 #end
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>ifparam</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.velocity</scope>
 </snippet>

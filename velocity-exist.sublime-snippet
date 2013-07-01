@@ -1,9 +1,7 @@
 <snippet>
 	<content><![CDATA[
-\$include.exists("${0:filepath}")
+\$include.exists( "${0:filepath}" )
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>exist</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.velocity</scope>
 </snippet>

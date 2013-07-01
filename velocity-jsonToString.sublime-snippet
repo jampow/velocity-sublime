@@ -1,9 +1,7 @@
 <snippet>
 	<content><![CDATA[
-\$_json.toString(${0:obj})
+\$_json.toString( ${0:obj} )
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>jsontos</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<tabTrigger>jstos</tabTrigger>
 	<scope>source.velocity</scope>
 </snippet>

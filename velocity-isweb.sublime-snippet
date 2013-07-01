@@ -2,8 +2,6 @@
 	<content><![CDATA[
 $_userAgent.isWeb()
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>isweb</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.velocity</scope>
 </snippet>

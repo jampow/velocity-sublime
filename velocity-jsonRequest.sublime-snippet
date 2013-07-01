@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$_json.request(${0:url})
+\$_json.request( ${0:url} )
 ]]></content>
 	<tabTrigger>request</tabTrigger>
 	<scope>source.velocity</scope>
