@@ -26,12 +26,12 @@
         }, 
         {
             "comment": "Single line comment", 
-            "match": "(##).*$\n?", 
+            "match": "(##).*$", 
             "name": "comment.line.double-pound.vm"
         }, 
         {
             "comment": "Single line comment", 
-            "match": "(#\\*\\*#)\n?", 
+            "match": "(#\\*\\*#)", 
             "name": "comment.line.double-pound.vm"
         }, 
         {
