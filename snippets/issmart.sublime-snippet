@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-$_userAgent.isSmartPhone()
+\$_userAgent.isSmartPhone()
 ]]></content>
 	<tabTrigger>issmart</tabTrigger>
 	<scope>source.velocity</scope>

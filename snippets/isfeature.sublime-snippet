@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-$_userAgent.isFeaturePhone()
+\$_userAgent.isFeaturePhone()
 ]]></content>
 	<tabTrigger>isfeature</tabTrigger>
 	<scope>source.velocity</scope>
