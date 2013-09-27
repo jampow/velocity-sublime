@@ -34,4 +34,4 @@ Or paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``sysdate`` - system date ``$date.getSystemTime()``
 *	``count`` - Velocity counter, foreach index ``$velocityCount``
 *	``.upper`` - Velocity toUpperCase ``.toUpperCase()``
-*	``st`` - STOP!!! ``#stop``
+*	``st`` - STOP!!! Hammer time! ``#stop``
