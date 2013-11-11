@@ -14,7 +14,7 @@
 		<string>tpl</string>
 	</array>
 	<key>firstLineMatch</key>
-	<string>^#!vm;</string>
+	<string>^#!vm;[a-z0-9-]*</string>
 	<key>name</key>
 	<string>Velocity</string>
 	<key>patterns</key>

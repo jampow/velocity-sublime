@@ -5,7 +5,7 @@
         "inc", 
         "tpl"
     ], 
-    "firstLineMatch": "^#!vm;", 
+    "firstLineMatch": "^#!vm;[a-z0-9-]*", 
     "name": "Velocity", 
     "patterns": [
         {
