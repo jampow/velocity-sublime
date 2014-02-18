@@ -36,3 +36,7 @@ Or paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``.upper`` - Velocity toUpperCase ``.toUpperCase()``
 *	``st`` - STOP!!! Hammer time! ``#stop``
 *	``ctype`` - set the content type of header's request ``$response.setContentType("type")``
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jampow/velocity-sublime/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
