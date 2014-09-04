@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$math.div( \$${1:number}, ${0:\$number} )
+]]></content>
+	<tabTrigger>/</tabTrigger>
+	<scope>source.velocity</scope>
+</snippet>
