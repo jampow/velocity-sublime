@@ -21,6 +21,7 @@ Or paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``+`` - addition ``$math.add($number, $number)``
 *	``-`` - subtraction ``$math.sub($number, $number)``
 *	``*`` - multiplication ``$math.mul($number, $number)``
+*	``/`` - division ``$math.div($number, $number)``
 *	``debug`` - html output debug with parameter
 *	``par`` - parse ``#parse("url")``
 *	``exist`` - return a boolean if file exists ``$include.exists("filepath")``
@@ -36,7 +37,3 @@ Or paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``.upper`` - Velocity toUpperCase ``.toUpperCase()``
 *	``st`` - STOP!!! Hammer time! ``#stop``
 *	``ctype`` - set the content type of header's request ``$response.setContentType("type")``
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jampow/velocity-sublime/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
