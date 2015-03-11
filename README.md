@@ -12,7 +12,7 @@ Or paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``if`` - if structure, without else ``#if(condition) ... #end``
 *	``ifel`` - if else structure ``#if(condition) ... #else ... #end``
 *	``ifparam`` - if some url param ``#if($!{request.getParameter( 'someparameter' )}) ... #end``
-*	``else`` - only an else ``#else``
+*	``el`` - only an else ``#else``
 *	``set`` - set ``#set( $var = _value_ )``
 *	``read`` - gets the content of file ``$_reader.read("path/to/file.ext")``
 *	``$`` - use variable ``$!{var}``
