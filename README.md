@@ -36,5 +36,6 @@ Or paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``count`` - Velocity counter, foreach index ``$velocityCount``
 *	``.up`` - Velocity toUpperCase ``.toUpperCase()``
 *	``.str`` - converts to string ``.toString()``
+*	``.ks`` - Object keys to Array ``.keySet()``
 *	``st`` - STOP!!! Hammer time! ``#stop``
 *	``ctype`` - set the content type of header's request ``$response.setContentType("type")``
