@@ -35,5 +35,6 @@ Or paste the repo folder into the `<SublimeText2Folder>/Packages`
 *	``sysdate`` - system date ``$date.getSystemTime()``
 *	``count`` - Velocity counter, foreach index ``$velocityCount``
 *	``.up`` - Velocity toUpperCase ``.toUpperCase()``
+*	``.str`` - converts to string ``.toString()``
 *	``st`` - STOP!!! Hammer time! ``#stop``
 *	``ctype`` - set the content type of header's request ``$response.setContentType("type")``
