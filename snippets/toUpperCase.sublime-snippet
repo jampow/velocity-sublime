@@ -2,6 +2,6 @@
 	<content><![CDATA[
 .toUpperCase()
 ]]></content>
-	<tabTrigger>.upper</tabTrigger>
+	<tabTrigger>.up</tabTrigger>
 	<scope>source.velocity</scope>
 </snippet>
