@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-#!vm;utf-8
 \$response.setStatus(${1:301})
 \$response.sendRedirect("${2:\$${0:var}}")
 ]]></content>
