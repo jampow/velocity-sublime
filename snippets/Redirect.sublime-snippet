@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+#!vm;utf-8
+\$response.setStatus(301) ##moved permanently
+\$response.sendRedirect("\$${1:var}")
+]]></content>
+	<tabTrigger>redi</tabTrigger>
+	<scope>source.velocity</scope>
+</snippet>
+
+
