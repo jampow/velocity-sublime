@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$response.setStatus(${1:301})
+\$response.sendRedirect("${2:\$${0:var}}")
+]]></content>
+	<tabTrigger>redi</tabTrigger>
+	<scope>source.velocity</scope>
+</snippet>
+
+
